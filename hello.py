@@ -15,3 +15,6 @@ print (name.capitalize())
 print (name [7:10])
 
 
+//запись
+//запись2
+//запись3
